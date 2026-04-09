@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="emergency_red">#E53935</color> <color
+name="sms_blue">#1E88E5</color>
+<color name="share_green">#43A047</color>
+<color name="app_bg">#F4F7F9</color>
+<color name="card_white">#FFFFFF</color>
+<color name="text_dark">#263238</color>
+</resources>
