@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">EmergencyApp</string>
+
+<string name="call_emergency">Call Emergency</string>
+<string name="send_sms">Send SMS</string>
+<string name="share_info">Share Info</string>
+</resources>
